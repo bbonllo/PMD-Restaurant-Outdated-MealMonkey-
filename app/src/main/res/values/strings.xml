@@ -19,7 +19,6 @@
     <string name="menu_pokke">Pokke</string>v
     <string name="menu_logout">Logout</string>
     <string name="menu_about">About us</string>
-    <string name="menu_try">Try</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
