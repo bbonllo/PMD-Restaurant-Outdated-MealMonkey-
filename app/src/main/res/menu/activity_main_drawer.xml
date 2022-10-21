@@ -37,21 +37,21 @@
             android:icon="@drawable/pokke_48px"
             android:title="@string/menu_pokke" />
         <item
-            android:id="@+id/nav_fast_food"
+            android:id="@+id/nav_fastfood"
             android:icon="@drawable/fastfood_48px"
             android:title="@string/menu_fast_food" />
     </group>
     <group android:checkableBehavior="single">
-        <item android:title="Others">
+        <item android:title="@string/menu_others">
             <menu>
                 <item
-                    android:id="@+id/nav_logout"
+                    android:id="@+id/nav_aboutus"
+                    android:icon="@drawable/help_48px"
+                    android:title="@string/menu_aboutus" />
+                <item
+                    android:id="@+id/nav_login"
                     android:icon="@drawable/logout_48px"
                     android:title="@string/menu_logout" />
-                <item
-                    android:id="@+id/nav_about_us"
-                    android:icon="@drawable/help_48px"
-                    android:title="@string/menu_about" />
             </menu>
         </item>
     </group>

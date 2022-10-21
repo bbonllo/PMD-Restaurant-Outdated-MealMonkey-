@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/fragment_burger.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/fragment_fastfood.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/fragment_home.xml" value="0.30027173913043476" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/unaib/AndroidStudioProjects/PMD-RestaurantPrueba/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/unaib/AndroidStudioProjects/Restaurantes/app/src/main/res/drawable/dinner_dining_48px.xml" value="0.341" />
         <entry key="..\:/Users/unaib/AndroidStudioProjects/Restaurantes/app/src/main/res/drawable/fastfood_48px.xml" value="0.341" />
         <entry key="..\:/Users/unaib/AndroidStudioProjects/Restaurantes/app/src/main/res/drawable/home-48px.xml" value="0.2265" />

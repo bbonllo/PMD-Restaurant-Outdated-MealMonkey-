@@ -54,14 +54,20 @@
         tools:layout="@layout/fragment_pokke" />
 
     <fragment
-        android:id="@+id/nav_fast_food"
+        android:id="@+id/nav_fastfood"
         android:name="com.example.restaurantes.ui.fastfood.FastFoodFragment"
         android:label="@string/menu_fast_food"
         tools:layout="@layout/fragment_fastfood" />
 
     <fragment
+        android:id="@+id/nav_aboutus"
+        android:name="com.example.restaurantes.ui.burger.BurgerFragment"
+        android:label="@string/menu_aboutus"
+        tools:layout="@layout/fragment_burger" />
+
+    <fragment
         android:id="@+id/nav_login"
-        android:name="com.example.restaurantes.ui.login."
+        android:name="com.example.restaurantes.ui.login.LoginActivity"
         android:label="@string/menu_kebab"
         tools:layout="@layout/activity_login" />
 </navigation>
