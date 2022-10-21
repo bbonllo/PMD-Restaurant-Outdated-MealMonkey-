@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_48px"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_kebab"
+            android:icon="@drawable/kebab_dining_48px"
+            android:title="@string/menu_kebab" />
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/menu_48px"
+            android:title="@string/menu_menu" />
+        <item
+            android:id="@+id/nav_burger"
+            android:icon="@drawable/burger_48px"
+            android:title="@string/menu_burger" />
+        <item
+            android:id="@+id/nav_asian"
+            android:icon="@drawable/asian_48px"
+            android:title="@string/menu_asian" />
+        <item
+            android:id="@+id/nav_italian"
+            android:icon="@drawable/italian_48px"
+            android:title="@string/menu_italian" />
+        <item
+            android:id="@+id/nav_mexican"
+            android:icon="@drawable/mexican_48px"
+            android:title="@string/menu_mexican" />
+        <item
+            android:id="@+id/nav_pokke"
+            android:icon="@drawable/pokke_48px"
+            android:title="@string/menu_pokke" />
+        <item
+            android:id="@+id/nav_fast_food"
+            android:icon="@drawable/fastfood_48px"
+            android:title="@string/menu_fast_food" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Others">
+            <menu>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_48px"
+                    android:title="@string/menu_logout" />
+                <item
+                    android:id="@+id/nav_about_us"
+                    android:icon="@drawable/help_48px"
+                    android:title="@string/menu_about" />
+            </menu>
+        </item>
+    </group>
+</menu>

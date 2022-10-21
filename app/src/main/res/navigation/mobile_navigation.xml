@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.restaurantes.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_kebab"
+        android:name="com.example.restaurantes.ui.kebab.KebabFragment"
+        android:label="@string/menu_kebab"
+        tools:layout="@layout/fragment_kebab" />
+
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="com.example.restaurantes.ui.menu.MenuFragment"
+        android:label="@string/menu_menu"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/nav_burger"
+        android:name="com.example.restaurantes.ui.burger.BurgerFragment"
+        android:label="@string/menu_burger"
+        tools:layout="@layout/fragment_burger" />
+
+    <fragment
+        android:id="@+id/nav_asian"
+        android:name="com.example.restaurantes.ui.asian.AsianFragment"
+        android:label="@string/menu_asian"
+        tools:layout="@layout/fragment_asian" />
+
+    <fragment
+        android:id="@+id/nav_italian"
+        android:name="com.example.restaurantes.ui.italian.ItalianFragment"
+        android:label="@string/menu_italian"
+        tools:layout="@layout/fragment_italian" />
+
+    <fragment
+        android:id="@+id/nav_mexican"
+        android:name="com.example.restaurantes.ui.mexican.MexicanFragment"
+        android:label="@string/menu_mexican"
+        tools:layout="@layout/fragment_mexican" />
+
+    <fragment
+        android:id="@+id/nav_pokke"
+        android:name="com.example.restaurantes.ui.pokke.PokkeFragment"
+        android:label="@string/menu_pokke"
+        tools:layout="@layout/fragment_pokke" />
+
+    <fragment
+        android:id="@+id/nav_fast_food"
+        android:name="com.example.restaurantes.ui.fastfood.FastFoodFragment"
+        android:label="@string/menu_fast_food"
+        tools:layout="@layout/fragment_fastfood" />
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="com.example.restaurantes.ui.login."
+        android:label="@string/menu_kebab"
+        tools:layout="@layout/activity_login" />
+</navigation>
